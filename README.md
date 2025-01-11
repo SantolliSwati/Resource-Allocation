@@ -9,6 +9,9 @@ A modern React application for managing and searching through resources, built w
 - Component-based architecture
 - Fast development environment with Vite
 
+![image](https://github.com/user-attachments/assets/11e8fcd0-b513-4970-967f-7be3a1c35b96)
+
+
 ## Tech Stack
 
 - React
